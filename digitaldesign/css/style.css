@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "맑은 고딕";
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+#box {
+    width: 1200px;
+    height: 800px;
+    background: rgb(132, 119, 255);
+}
+.head_box {
+    width: 1200px;
+    height: 100px;
+    background: rgb(255, 0, 128);
+}
+.logo {
+    width: 300px;
+    height: 100px;
+    background: yellow;
+    float: left;
+}
+.navi {
+    width: 850px;
+    height: 100px;
+    float: right;
+    background: blue;
+}
+/* head_box 끝 */
+.slide {
+    width: 1200px;
+    height: 400px;
+    clear: both;
+    background-color: blueviolet;
+}
+/* slide 끝 */
+.img_box {
+    width: 1200px;
+    height: 200px;
+    background: green;
+}
+.sns {
+    width: 350px;
+    height: 200px;
+    background-color: firebrick;
+    float: left;
+}
+.notice {
+    width: 350px;
+    height: 200px;
+    float: right;
+    background: orange;
+}
+/* img_box 끝 */
+.footer_box {
+    width: 1200px;
+    height: 100px;
+    background: #bbb;
+}
+.copyright {
+    width: 350px;
+    height: 100px;
+    background: #888;
+    margin-top: 50px;
+    float: right;
+}
+.footer_notice {
+    width: 350px;
+    height: 100px;
+    background: #585858;
+    float: left;
+    margin-top: 50px;
+}
